@@ -27,7 +27,6 @@ Managing daily expenses manually can be difficult. This application helps users 
 - Export reports
 
 ## Developed by
-Arthi AK
 
 
 Arthi AK
