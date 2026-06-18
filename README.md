@@ -1,16 +1,34 @@
-# React + Vite
+# Expense Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
+Expense Dashboard is a React-based web application that helps users manage their daily income and expenses. It provides a simple interface for adding transactions and tracking financial activities.
 
-Currently, two official plugins are available:
+## Features
+- Add income and expense transactions
+- Categorize transactions
+- View transaction history
+- Track total balance
+- User-friendly interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies Used
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Vite
 
-## React Compiler
+## Problem Solved
+Managing daily expenses manually can be difficult. This application helps users record and monitor their financial transactions in one place.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Future Enhancements
+- Data persistence using Local Storage
+- Expense charts and analytics
+- User authentication
+- Export reports
 
-## Expanding the ESLint configuration
+## Developed by
+Arthi AK
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+Arthi AK
+
